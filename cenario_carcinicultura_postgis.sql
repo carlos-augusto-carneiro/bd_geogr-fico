@@ -87,7 +87,7 @@ FROM viveiro v, captacao c
 ORDER BY dist_m;
 
 -- =====================================================================
--- EXTRAS (úteis para a arguição)
+-- EXTRAS
 -- =====================================================================
 
 -- Versão otimizada do filtro por distância (usa o índice espacial):
